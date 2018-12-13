@@ -18,3 +18,8 @@ https://www.owasp.org/images/b/bd/OWASP_Top_10-2017-ko.pdf
 참고 문서
 owasp-2017내 링크 참조
 https://www.owasp.org/images/b/bd/OWASP_Top_10-2017-ko.pdf
+VMware를 이용한 OWASPBWA 설치
+https://lureout.tistory.com/184
+
+파일 다운로드 사이트
+https://sourceforge.net/projects/owaspbwa/
