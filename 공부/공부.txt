@@ -1,0 +1,6 @@
+OWASP Zed 공격 프록시 프로젝트
+https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project
+
+매타스플로잇 입문부터 개념이해 활용
+https://www.inflearn.com/course/%EB%A9%94%ED%83%80%EC%8A%A4%ED%94%8C%EB%A1%9C%EC%9E%87-%ED%99%9C%EC%9A%A9-%EB%B0%8F-%EB%B6%84%EC%84%9D/
+
