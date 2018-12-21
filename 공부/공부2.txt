@@ -1,0 +1,11 @@
+OWASP Top 10에 취약한 레일즈 애플리케이션입니다.
+이 취약점 범주 각각이 Rails 관련 방법으로 어떻게 나타날 수 있는지를 보여주고 각각에 대한 후속 완화책을 제공하는 방법을 보여줍니다.
+
+OWASP ZAP (OWASP ZED ATTACK PROXY PROJECT) 란?
+OWASP ZAP을 간단히 요약하면 개발 단계에서 개발자가 손쉽게 스스로 보안 취약점을 발견하고 조치할 수 있도록 하는 오픈소스 제품입니다.
+구체적으로 OWASP ZAP는 오픈 소스 프로젝트로 웹 어플리케이션 스캐너인 ZAP (Zed Attack Proxy)을 개발하는 프로젝트 입니다.
+이미 공개되어 있는 오픈소스 프로젝트인 Paros Proxy라는 웹 어플리케이션 스캐너를 기반으로 다양한 기능을 추가하고 개선한 제품입니다.
+OWASP ZAP이 자동으로 진단 검사 할 수 있는 취약점은 접근할 수 없는 부분을 제외한 웹 어플리케이션의 주요 취약점을 포괄적으로 확인할 수 있습니다.
+
+
+http://www.opennaru.com/opennaru-blog/owasp-zap-devops-and-security/
