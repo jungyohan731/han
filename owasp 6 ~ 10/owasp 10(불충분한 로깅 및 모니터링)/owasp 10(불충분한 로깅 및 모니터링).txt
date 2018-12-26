@@ -1,0 +1,12 @@
+Insufficient Logging & Monitoring(불충분한 로깅 및 모니터링)
+
+불충분한 로깅 및 모니터링과 사고 대응과의 통합이 누락되거나 비효율적인 경우 공격자에 의해 시스템 공격으로 이어지거나 데이터 변조와 추출, 심지어 파괴될 수 있는
+취약점이다.
+최근 애플리케이션은 API(SOAP/XML, REST/JSON, RPG, GWT)에 연결되는 브라우저 및 모바일 어플리케이션의 자바스크립트와 같은 Rich Client Application과
+API를 포함하는 경우가 많다.
+이러한 API는 보호되지 않은 경우가 흔하며 다양한 취약점을 갖고 있다.
+
+대응 방법
+- 클라이언트와 API사이의 통신이 보호되고 있는지 확인해야 하며, API에 강력한 인증방식이 모든 인증 정보, 키 및 토큰을 보호하고 있는지 확인해야 한다.
+
+참고 사이트: https://m.blog.naver.com/PostView.nhn?blogId=pentamkt&logNo=221151103823&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F

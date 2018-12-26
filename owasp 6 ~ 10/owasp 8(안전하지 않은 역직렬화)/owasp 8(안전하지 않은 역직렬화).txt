@@ -1,0 +1,9 @@
+Insecure Deserialization(불안전한 역직렬화)
+역직렬화 취약점은 직렬화 형태로 처리되는 개채에 변조, 공격자 권한 상승 등의 문제가 발생되는 취약점이다.
+공격자는 이처럼 악의적인 객체를 넘겨주고 어플리케이션이 이를 로드하는 과정에서 검증되지 않은 객체를 만들어 공격자가 의도한 행위가 실행되는 방식
+어플리케이션이 악의적인 역직렬화 객체를 받으면 불안전한 역직렬화(Insecure Deseralization) 취약점이 발생하며, 원격코드가 실행된다.
+역직렬화 취약점으로 인해 원격 코드가 실행되지 않아도 직렬화된 객체를 재생, 변조 또는 삭제하여 사용자를 속이거나 인젝션(Injection)공격을 받고 권한을 얻을 수 있다.
+
+
+참고 사이트: https://m.blog.naver.com/PostView.nhn?blogId=pentamkt&logNo=221151103823&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+https://www.hahwul.com/2017/10/web-hacking-owasp-top-10-2017-rc2-review.html
